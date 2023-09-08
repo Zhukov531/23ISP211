@@ -1,0 +1,108 @@
+@font-face {
+    font-family: Donpoligrafbum;
+    src: url(../font/Donpoligrafbum-Bold.otf);
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(../font/Montserrat/Montserrat-Regular.ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #222222, #00F0FF)fixed;
+    color: white;
+}
+.sec-content {}
+
+.menu {
+    /* background-color: red; */
+}
+
+.menu-links {
+    display: flex;
+    justify-content: center;
+}
+.menu-link {
+    margin: 0 40px;
+}
+
+.header {
+    background-color: #272727;
+    margin: 0 40px ;
+    padding: 40px;
+    border-radius: 50px 50px 0 0;
+    text-align: center;
+    color: white;
+}
+.header-content {}
+
+.header-h1 {
+    font-family: Donpoligrafbum;
+    font-size: 80px;
+    line-height: 0;
+}
+
+.header-p {
+    font-family: montserrat;
+    font-size: 25px;
+    line-height: 0;
+}
+
+.header-img {
+    max-width: 350px;
+}
+
+.header-btn-box {
+    margin-top: 50px;
+}
+
+.header-btn {
+    padding: 10px 35px;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.section1 {}
+
+.section1-content {}
+
+.section1-h1 {}
+
+.section1-box {}
+
+.section1-img {}
+
+.section1-p {}
+
+.section2 {}
+
+.section2-content {}
+
+.section2-h3 {}
+
+.section2-p {}
+
+.section2-btn-form {}
+
+.section2-btn {}
+
+.section2-schedule {}
+
+.sec2-sch {}
+
+.sec2-sch-box {}
+
+.sch-box-h3 {}
+
+.sch-box-p {}
+
+.section3 {}
+
+.section3-content {}
+
+.sec3-h2 {}
+
+.sec3-peoplebox {}
